@@ -9,6 +9,7 @@ scipy>=0.15.1
 scikit_learn>=0.18
 pandas>=0.19
 nltk>=3.4.5
+newspaper3k
 
 Flask-Cors==3.0.8
 requests
