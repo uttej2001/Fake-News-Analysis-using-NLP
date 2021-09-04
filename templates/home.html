@@ -32,10 +32,11 @@
   <div class="back2 side">
     <div class="content">
       <h1>PREDICT FAKE NEWS</h1><br><br><br><br>
-	  <form action="{{ url_for('predict')}}" method="POST">
-	  <textarea name="message" rows="6" cols="50"></textarea>
-		<br/>
-		<input type="submit" class="btn-info" value="predict">
+	  <form action = "/predict" method = "post">
+        <input type = "url", name = "link", placeholder="Enter url here"><br>
+        <center>
+          <button type="submit" class ="btn-info" value="submit">Predict</button>
+      </center>
       </form>
     </div>
   </div>
