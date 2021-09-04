@@ -8,7 +8,7 @@ In this project, we have built a classifier model that can identify news as real
 
 With the help of this project, we can create an NLP classifier to detect whether the news is real or fake.
 
-Use these links when running the webpage.
+### Use these links when running the webpage.
 #### For predicting Real News: Any news article from ndtv(It is the most-popular Indian news website)
 [Link1](https://www.ndtv.com/world-news/fresh-fighting-in-afghan-holdout-as-taliban-finalise-government-2529680#pfrom=home-ndtv_topstories) &
 [Link2](https://sports.ndtv.com/england-vs-india-2021/eng-vs-ind-4th-test-rohit-sharma-registers-his-maiden-overseas-test-century-increases-indias-lead-on-day-3-2530037#pfrom=home-ndtv_topstories)
@@ -19,8 +19,5 @@ Use these links when running the webpage.
 ## Link to Dataset
 [News Dataset](https://drive.google.com/file/d/1mqEpnZho-oUhSsgBnE0fwPsaogkNzKqd/view?usp=sharing)
 
-## Link to Project Files
-[Project Files](https://drive.google.com/drive/folders/1Yua4Z0VK3XAGV1hLt-iUR1B26FFuwn8a?usp=sharing)
-
-## Link to Video Demonstration
-[Video Demonstration](https://drive.google.com/file/d/15DJ2-z4iV9kD1CAWScqFFdn3UvY8vw2i/view?usp=sharing)
+## Link to Project Demo
+[YouTube Link](https://youtu.be/RrXR48BAbC0)
