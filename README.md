@@ -1,6 +1,6 @@
 # Fake News Analysis using NLP
 There should be a system which can analyse whether a given news post is fake or not, so the main purpose of this project is to build an application that can analyze fake news.
-
+##### Deployed Web Application: [Fake News Analysis](https://fakenews-analysis.herokuapp.com/)
 ## The problem Fake News Analysis using NLP solves
 Nowadays, fake news has become a common trend. Even trusted media houses are known to spread fake news and are losing their credibility. So, how can we trust any news to be real or fake? There should be a system that can analyze whether a given news post is fake or not, so the main purpose of this project is to build an application that can analyze fake news.
 
