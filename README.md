@@ -4,9 +4,11 @@ There should be a system which can analyse whether a given news post is fake or 
 ## The problem Fake News Analysis using NLP solves
 Nowadays, fake news has become a common trend. Even trusted media houses are known to spread fake news and are losing their credibility. So, how can we trust any news to be real or fake? There should be a system that can analyze whether a given news post is fake or not, so the main purpose of this project is to build an application that can analyze fake news.
 
-In this project, we have built a classifier model that can identify news as real or fake. For this purpose, we have used data from Kaggle, to build this model following the same methods.
+In this project, I have built a classifier model that can identify news as real or fake. For this purpose, I have used data from Kaggle.
 
-With the help of this project, we can create an NLP classifier to detect whether the news is real or fake.
+With the help of this project, I created an NLP classifier to detect whether the news is real or fake.
+
+![image](https://user-images.githubusercontent.com/72940291/139529370-48a644a4-711e-4e41-8cf7-d855bed806a1.png)
 
 ### Use these links when running the webpage.
 #### For predicting Real News: Any news article from ndtv(It is the most-popular Indian news website)
@@ -15,6 +17,8 @@ With the help of this project, we can create an NLP classifier to detect whether
 #### For predicting Fake News: Fake news stories published on the New York Media network.([Fakenewsarticles](https://nymag.com/tags/fake-news/))
 [Link1](https://www.vulture.com/2020/10/tatiana-maslany-says-she-is-not-playing-she-hulk.html) &
 [Link2](https://nymag.com/intelligencer/2020/09/trump-biden-debate-earpiece-drugs-satire.html)
+
+![image](https://user-images.githubusercontent.com/72940291/139529411-0f9e0899-273a-4be0-be84-8443ef94629c.png)
 
 ## Link to Dataset
 [News Dataset](https://drive.google.com/file/d/1mqEpnZho-oUhSsgBnE0fwPsaogkNzKqd/view?usp=sharing)
